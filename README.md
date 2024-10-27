@@ -2,7 +2,7 @@
 
 ![parrot-banner](https://github.com/lucianoayres/parrot/blob/main/images/banner_parrot.png?raw=true)
 
-## Instantly Generate Custom PARAMETER Settings for Your Ollama Modelfiles
+## Generate Custom PARAMETER Settings for Your AI Models
 
 [What's Parrot? 🦜](#whats-parrot) · [Why Use Parrot? 🚀](#why-use-parrot) · [How Does It Work? ⚙️](#how-does-it-work) · [Who Is It For? 🎯](#who-is-it-for) · [How to Use 🛠️](#how-to-use) · [Using Nino with Ollama 🐶](#using-nino-with-ollama) · [Templates 📄](#templates) · [Examples 📂](#examples) · [License 📄](#license) · [Contribution 🤝](#contribution)
 
